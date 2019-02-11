@@ -1,2 +1,2 @@
 # my-website
-Site example course Git
+This is a really awesome site
